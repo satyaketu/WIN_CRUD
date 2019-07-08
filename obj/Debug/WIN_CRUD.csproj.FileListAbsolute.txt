@@ -1,0 +1,10 @@
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\bin\Debug\WIN_CRUD.exe.config
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\bin\Debug\WIN_CRUD.exe
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\bin\Debug\WIN_CRUD.pdb
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.csprojAssemblyReference.cache
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.Form1.resources
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.Properties.Resources.resources
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.csproj.GenerateResource.cache
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.exe
+C:\Users\Satya\source\repos\WIN_CRUD\WIN_CRUD\obj\Debug\WIN_CRUD.pdb
